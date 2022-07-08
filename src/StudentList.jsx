@@ -4,7 +4,8 @@ const StudentList = ({students}) => {
     console.log(students)
     return (
         <>
-            <h1> 𝒮𝓉𝓊𝒹𝑒𝓃𝓉 𝐿𝒾𝓈𝓉: </h1>
+            <div className="title">
+            </div>
             {students.map(student => 
              < Student student = {student} />
 

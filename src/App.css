@@ -28,3 +28,9 @@ body {
   margin: 1rem;
   height: cover;
 }
+
+.title {
+  display: flex;
+ color:red
+ 
+}
