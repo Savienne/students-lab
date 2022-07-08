@@ -1,7 +1,7 @@
 
 body {
-  background-color: black;
-  color: rgb(207, 124, 124);
+  background-color: rgb(186, 194, 198);
+  color: rgb(17, 15, 15);
   justify-content: center;
   align-items: center;
   flex-direction: flex;
@@ -25,7 +25,7 @@ body {
 }
 
 .bio-div {
-  border: 1px solid rgb(34, 141, 43);
+  border: 1px solid rgb(11, 12, 11);
   width: 125px;
   display: grid;
   justify-items: center;
