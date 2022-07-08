@@ -2,12 +2,17 @@
 body {
   background-color: black;
   color: rgb(207, 124, 124);
+  justify-content: center;
+  align-items: center;
+  flex-direction: flex;
+  text-align: center;
 }
 
 .app-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .card {
