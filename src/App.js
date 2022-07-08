@@ -70,11 +70,11 @@ const [students] = useState(s)
 
   return (
 
-    <>
+    <div className='app-container'>
    < StudentList students = {students} />
 
 
-    </>
+   </div>
   );
 }
 
